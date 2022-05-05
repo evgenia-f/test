@@ -1,3 +1,6 @@
+layout: page
+title: "rss"
+permalink: /rss/
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <atom:link href="https://rss.marketindex.com.au/news/feed/tradingview" rel="self" type="application/rss+xml"/>
